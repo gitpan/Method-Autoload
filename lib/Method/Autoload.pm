@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use UNIVERSAL::require;
 
-our $VERSION='0.01';
+our $VERSION='0.02';
 our $AUTOLOAD;
 
 =head1 NAME
@@ -185,24 +185,25 @@ sub autoload {
 
 =head1 BUGS
 
+DavisNetworks.com provides support services for all Perl applications including this package.
+
 =head1 SUPPORT
 
 =head1 AUTHOR
 
-    Michael R. Davis
-    CPAN ID: MRDVT
-    STOP, LLC
-    domain=>michaelrdavis,tld=>com,account=>perl
-    http://www.stopllc.com/
+  Michael R. Davis
+  CPAN ID: MRDVT
+  STOP, LLC
+  domain=>michaelrdavis,tld=>com,account=>perl
+  http://www.stopllc.com/
 
 =head1 COPYRIGHT
 
 This program is free software licensed under the...
 
-	The BSD License
+  The BSD License
 
-The full text of the license can be found in the
-LICENSE file included with this module.
+The full text of the license can be found in the LICENSE file included with this module.
 
 =head1 SEE ALSO
 

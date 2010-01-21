@@ -1,4 +1,5 @@
-package My::Baz;
+package #hide from CPAN
+        My::Baz;
 use strict;
 use warnings;
 sub foo {"My::Baz::foo"};
